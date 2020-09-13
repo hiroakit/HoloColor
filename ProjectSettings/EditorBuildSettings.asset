@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GrayScale.unity
+    guid: 2034f6d3c84f14b238538cc9f541cde7
   m_configObjects: {}
